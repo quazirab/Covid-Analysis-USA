@@ -1,0 +1,23 @@
+# Workspace
+.vscode/
+*.code-workspace
+
+# Python
+*.pyc
+venv/
+__pycache__/
+
+# Debug
+bin/
+*.log
+build/*/
+dist/
+*.log.*
+releases/*
+obsolete/*
+
+# Project
+*.csv#
+processed_data/
+population-data/
+covid-19-data/
